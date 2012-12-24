@@ -1,5 +1,5 @@
 {
-    "name": "KarlRoos/bank",
+    "name": "karlroos/bank",
     "description": "Wrappers for accessing Swedish banks. Currently supports Handelsbanken and SEB.",
     "keywords": ["bank", "handelsbanken", "seb"],
     "authors": [
