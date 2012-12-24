@@ -1,0 +1,23 @@
+{
+    "name": "KarlRoos/bank",
+    "description": "Wrappers for accessing Swedish banks. Currently supports Handelsbanken and SEB.",
+    "keywords": ["bank", "handelsbanken", "seb"],
+    "authors": [
+        {
+            "name": "Karl Laurentius Roos",
+            "email": "karlroos93@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "KarlRoos\\Bank": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
