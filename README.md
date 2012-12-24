@@ -12,7 +12,7 @@ Create an instance of the bank you'd like to use like this:
 
     $seb = new \KarlRoos\Bank\SEB;
 
-Login by calling the `login` method:
+Login by calling the `login()` method:
 
     $seb->login($username, $password);
 
